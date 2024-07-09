@@ -4,7 +4,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on **personal projects**
+🔭 I’m currently working on **personal projects and virtual hackathons**
   
 🌱 I’m currently learning **dsa**
 
