@@ -23,13 +23,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mui,mongodb,java,mysql,flask,aws" /><br>
 </div>
 
-<!--
+
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/ap&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryanpatel2&theme=tokyonight&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=stars,contribs)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aaryanpatel2&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanpatel2&layout=compact&theme=tokyonight&card_width=335)
+
 </div>
-<--
